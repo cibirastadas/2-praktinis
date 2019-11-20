@@ -1,0 +1,36 @@
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\2 praktinis.exe.config
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\2 praktinis.exe
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\2 praktinis.pdb
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\2 praktinis.csprojAssemblyReference.cache
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\MainWindow.g.cs
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\App.g.cs
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\2 praktinis_MarkupCompile.cache
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\2 praktinis_MarkupCompile.lref
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\MainWindow.baml
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\2 praktinis.g.resources
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\_2_praktinis.Properties.Resources.resources
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\2 praktinis.csproj.GenerateResource.cache
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\2 praktinis.exe
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\2 praktinis.pdb
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\Window1.g.cs
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\Window1.baml
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\EntityFramework.dll
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\EntityFramework.xml
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\2 praktinis.csproj.CopyComplete
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\Window2.g.cs
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\Window2.baml
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\ItemDynamic.g.cs
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\ItemDynamic.baml
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\Window3.g.cs
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\Window3.baml
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\ItemFullDynamic.g.cs
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\Window4.g.cs
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\ItemFullDynamic.baml
+C:\Users\Tadas\Desktop\2 praktinis\2 praktinis\obj\Debug\Window4.baml
